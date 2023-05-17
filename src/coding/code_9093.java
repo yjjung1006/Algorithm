@@ -9,7 +9,7 @@ public class code_9093 {
     public static void main(String[] args) throws IOException {
 		int testCase = 0;
 		String s = "";
-        testCase  = Integer.parseInt(br.readLine());
+        testCase  = Integer.parseInt(br.readLine()); 
 
         for (int i = 0; i < testCase; i++) {
 			s = br.readLine();
